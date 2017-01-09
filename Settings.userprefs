@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D8F80DC0-52F8-4275-9124-0711166B2990}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/UserSettings.cs">
+    <Files>
+      <File FileName="Settings/Interface/IUserSetttings.cs" Line="14" Column="36" />
+      <File FileName="Settings/Settings.cs" Line="9" Column="96" />
+      <File FileName="Droid/MainActivity.cs" Line="19" Column="27" />
+      <File FileName="Droid/UserSettings.cs" Line="36" Column="49" />
+      <File FileName="iOS/UserSettings.cs" Line="3" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Settings HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.Settings.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.31C581D1-1DDA-4985-A517-430063DB33CC" />
+</Properties>
